@@ -61,7 +61,7 @@ ollama pull qwen3:4b
 python jarvis_desktop.py
 ```
 
-Configure your assistant name, AI model, voice settings, and WeatherAPI key in `jarvis_config.json` — see the full reference in the [project report]([https://docs.google.com/document/d/1HIkcicidkideLtPx7-u8gQ0YpSWQAg5D7N_y12jShbk/edit?usp=drivesdk])).
+Configure your assistant name, AI model, voice settings, and WeatherAPI key in `jarvis_config.json` — see the full reference in the [project report]([https://docs.google.com/document/d/1HIkcicidkideLtPx7-u8gQ0YpSWQAg5D7N_y12jShbk/edit?usp=drivesdk]).
 
 ## Voice Commands (selected)
 
